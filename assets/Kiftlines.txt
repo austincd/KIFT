@@ -1,0 +1,17 @@
+//GENERAL SHIT
+Waking up.
+Going to sleep.
+Shutting down.
+Cancelled.
+I didn't quite catch that, can you say that again?
+Is this what you said?
+Did you say:
+//EMAIL SHIT
+Thank you, your email to %0 has been successfully sent!
+The Subject field is empty. Confirm Yes or No.
+The Address field is empty. Email not sent.
+Invalid Login Details Provided. Please use the Account Management commands to revise your login details and try again.
+//MUSIC SHIT
+On it, playing %0 by %1.
+On it, playing %0 radio.
+//
